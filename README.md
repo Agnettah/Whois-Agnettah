@@ -1,4 +1,4 @@
-# Whois-Agnettah
+
 ### Final readme file: 
 
 # Hi there, I'm Agnettah! 👋🏽
@@ -8,7 +8,12 @@
 
 ## About Me 🚀
 
-I'm a Software Engineer who is passionate about encouraging others to get in the industry. I enjoy community building, content creation and learning deeply about Javascript and Developer Advocacy. 
+I'm a Software Engineer with a background in IT support and a passion for frontend development, digital problem-solving, and creative expression. I enjoy building clean, user-centered web experiences and meaningful digital products—especially those that support emotional wellness.
+
+Currently learning through the ALX Frontend Program and exploring ways to blend tech with purpose through projects like **Gentle Pages Co.** and **MineGuardPro**.
+
+👨🏻‍💻 Always learning, always building—one solution at a time.
+
 
 - 🌱 Currently Developing: A role based mining system, addressing key pain points in the industry.
 - 🔭 Working on: SDLC for a supply chain addressing the mining sector
@@ -23,6 +28,7 @@ I'm a Software Engineer who is passionate about encouraging others to get in the
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flutter](
 
 ## Featured Projects 💻 
 
