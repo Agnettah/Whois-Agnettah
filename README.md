@@ -1,6 +1,4 @@
 
-### Final readme file: 
-
 # Hi there, I'm Agnettah! 👋🏽
 
 ![Agnettah](logo.jpg)
