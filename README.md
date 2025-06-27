@@ -20,15 +20,15 @@ Currently learning through the ALX Frontend Program and exploring ways to blend 
 
 ## My Skills 🧠
 
-JavaScript 
-Supabase
-Springbot
-React
-Python
-Flutter
-WordPress
-IT Support
-Networking
+JavaScript |
+Supabase   | 
+Springbot  |  
+React       |
+Python   |
+Flutter   |
+WordPress   |
+IT Support   |
+Networking   |
 
 ## Featured Projects 💻 
 
