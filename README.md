@@ -27,8 +27,12 @@ React       |
 Python   |
 Flutter   |
 WordPress   |
-IT Support   |
+Technical Support & Systems Thinking   |
 Networking   |
+Frontend Dev & UI Thinking |
+Self-Driven Learning |
+Growth Mindset  |
+
 
 ## Featured Projects 💻 
 
