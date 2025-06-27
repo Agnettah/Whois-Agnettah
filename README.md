@@ -26,7 +26,7 @@ Currently learning through the ALX Frontend Program and exploring ways to blend 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flutter](
+![Flutter](flutter.png)
 
 ## Featured Projects 💻 
 
