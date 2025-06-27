@@ -10,9 +10,10 @@
 
 I'm a Software Engineer who is passionate about encouraging others to get in the industry. I enjoy community building, content creation and learning deeply about Javascript and Developer Advocacy. 
 
-- 🌱 Currently learning: AI & Machine Learning 
-- 🔭 Working on: CopyPasta Chrome Extension to make it work across browsers 
-- ⚡ Fun fact: I'm Jamaican and I love food 💃🏽 
+- 🌱 Currently Developing: A role based mining system, addressing key pain points in the industry.
+- 🔭 Working on: SDLC for a supply chain addressing the mining sector
+- 🎯 Projects: Created a presentation addressing issues in the Education sector # One-size-fits-none.
+- ⚡ Fun fact: I love doing hard things 💃🏽 
 
 ## My Skills 🧠
 
