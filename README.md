@@ -1,7 +1,7 @@
 
 # Hi there, I'm Agnettah! 👋🏽
 
-![Agnettah](logo.jpg)
+![Agnettah](@agnettah.png)
 
 
 ## About Me 🚀
