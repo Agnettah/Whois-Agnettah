@@ -34,17 +34,13 @@ Self-Driven Learning |
 Growth Mindset  |
 
 
-## Featured Projects 💻 
+## 🌟 My Vision
 
-### [GitHub Certification Guide](https://github.com/LadyKerr/github-certification-guide) 📚
-
-Demonstrate your proficiency at GitHub by becoming certified. This guide will help you prepare for the exams and provide you with resources to help you succeed.
-
-![gh-certs (1)](https://github.com/user-attachments/assets/3f3f02a9-173e-43c3-9c06-341276047633)
+### To be a walking solution—a tech-driven problem solver who blends creativity, compassion, and innovation to build digital tools that empower people, fill industry gaps, and inspire growth in everyday life.
 
 
 ## Get in Touch 📬
 
-- [Personal Blog](https://itsthatlady.dev/ ) 
-- [LinkedIn](https://twitter.com/itsthatladydev) 
-- [Twitter](https://www.linkedin.com/in/kedashakerr/) 
+- [LinkedIn](https://www.linkedin.com/in/agnettah-waeni-a80484233/)
+- [Gmail](agnettahwaeni5504@gmail.com)
+- [Whatsapp](+254 716921591)
