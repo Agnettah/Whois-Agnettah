@@ -3,7 +3,7 @@
 
 # Hi there, I'm Agnettah! 👋🏽
 
-![@itsthatladydev](https://github.com/user-attachments/assets/dd30a6ad-88e3-470b-b64f-838fedf56cf5)
+![Agnettah](logo.jpg)
 
 
 ## About Me 🚀
